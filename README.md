@@ -1,15 +1,23 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ABIDI Youssef : ![ProfileViews](https://komarev.com/ghpvc/?username=youssefabidi13&label=Profile%20views&color=0e75b6&style=flat)</h2>
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;Graduated from Computer Science at ENSA Tetouan.\
-🌱 &nbsp;I'm on track for learning more about Spring boot, Angular, and Microservices.\
-✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports and team games.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at **youssef.abidi@etu.uae.ac.ma** or **youssefabidi929@gmail.com** I'll try to respond as soon as I can.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li><br>
+      <li>🎓 &nbsp;Graduated from Computer Science at ENSA Tetouan.</li><br>
+      <li>🌱 &nbsp;I'm on track for learning more about Spring boot, Angular, and Microservices.</li><br>
+      <li>✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports.</li><br>
+      <li>💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.</li><br>
+      <li>✉️ &nbsp;You can shoot me an email at <a href="youssef.abidi@etu.uae.ac.ma" >youssef.abidi@etu.uae.ac.ma</a> or **youssefabidi929@gmail.com**.</li><br>
+    I'll try to respond as soon as I can.
+    </ul>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
-
+  </div>
+  <div style="flex: 1; text-align: right;">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Maroaune Sadoune" style="width: 400px; height: auto;">
+  </div>
+</div>
 <!-- <img alt="Night Coding" src="https://cdn.discordapp.com/attachments/1056944593171660842/1068257407165272127/Black_and_White_Animated_Personal_Name_Initials_Logo.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
