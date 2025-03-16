@@ -6,12 +6,11 @@
     <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
     <ul>
       <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li><br>
-      <li>🎓 &nbsp;Graduated from Computer Science at ENSA Tetouan.</li><br>
-      <li>🌱 &nbsp;I'm on track for learning more about Spring boot, Angular, and Microservices.</li><br>
+      <li>🎓 &nbsp;Graduated from Computer Science at SupMTI Oujda .</li><br>
+      <li>🌱 &nbsp;I'm on track for learning more about Symfony, Spring boot, Laravel, and Microservices.</li><br>
       <li>✍️ &nbsp;In my free time, I enjoy being physically active, and spend a lot of time playing sports.</li><br>
       <li>💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.</li><br>
-      <li>✉️ &nbsp;You can shoot me an email at <a href="youssef.abidi@etu.uae.ac.ma" >youssef.abidi@etu.uae.ac.ma</a> or **youssefabidi929@gmail.com**.</li><br>
-    I'll try to respond as soon as I can.
+      <li>✉️ &nbsp;You can shoot me an email at <a href="youssef.abidi@etu.uae.ac.ma" >marouanesadoune@gmail.com</a> I'll try to respond as soon as I can.
     </ul>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
   </div>
