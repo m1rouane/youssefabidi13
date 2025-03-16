@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
+    <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
     <ul>
       <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li><br>
       <li>🎓 &nbsp;Graduated from Computer Science at ENSA Tetouan.</li><br>
@@ -14,24 +15,8 @@
     </ul>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
   </div>
-  <div style="flex: 1; text-align: right;">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Maroaune Sadoune" style="width: 400px; height: auto;">
-  </div>
 </div>
-<!-- <img alt="Night Coding" src="https://cdn.discordapp.com/attachments/1056944593171660842/1068257407165272127/Black_and_White_Animated_Personal_Name_Initials_Logo.gif" align="right"/> -->
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li>All of my projects are available at <a href="https://github.com/jaiswaladi246">https://github.com/jaiswaladi246</a></li>
-      <li>Ask me about DevOps & Cloud DevOps</li>
-      <li>How to reach me</li>
-    </ul>
-    <p><strong>Connect with me:</strong></p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Image" style="width: 200px; height: auto;">
-  </div>
-</div>
+
 ### 🛠 &nbsp;Tech Stack
 #### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
